@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxence Rault</h1>
 <h3 align="center">A learning Full-Stack Developper</h3>
 
-- 🔭 I’m currently working on a [NikoForest website](nikoguitarlesson.fr)
+- 🔭 I’m currently working on [NikoForest website](nikoguitarlesson.fr)
 
 - 🌱 I’m currently learning **ReactJS and Symfony**
 
