@@ -17,7 +17,7 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/maxence-rault" target="_blank">
+  <a href="www.linkedin.com/in/maxence-rault-b522b8291" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:raultmaxence05@gmail.com">
@@ -69,26 +69,3 @@
 
 ---
 
-<h3 align="center">🌟 Top Projects:</h3>
-<p align="center">
-  <a href="https://github.com/MaxenceRault/nikoguitarlesson" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaxenceRault&repo=nikoguitarlesson&theme=radical" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/MaxenceRault/some-cool-project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaxenceRault&repo=some-cool-project&theme=radical" alt="Project 2"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxenceRault&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxenceRault&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceRault&layout=compact&theme=radical" alt="Top Languages">
-</p>
