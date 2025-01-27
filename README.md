@@ -17,7 +17,7 @@
 
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left">
-  <a href=**[RaultMaxence](www.linkedin.com/in/maxence-rault-b522b8291)**> 
+  <a href="https://www.linkedin.com/in/maxence-rault-b522b8291" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:raultmaxence05@gmail.com">
